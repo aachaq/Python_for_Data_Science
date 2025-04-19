@@ -48,5 +48,5 @@ def main():
     length_greater_than_N()
 
 
-if main.__name__:
+if __name__ == "__main__":
     main()

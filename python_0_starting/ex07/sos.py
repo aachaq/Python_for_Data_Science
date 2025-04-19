@@ -68,5 +68,5 @@ def main():
     string_to_morse_code()
 
 
-if main.__name__:
+if __name__ == "__main__":
     main()

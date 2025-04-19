@@ -10,4 +10,3 @@ def all_thing_is_obj(object: any) -> int:
         return 42
     else:
         return
-
